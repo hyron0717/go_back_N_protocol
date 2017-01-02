@@ -1,6 +1,0 @@
-hjluo@ubuntu1404-002:~/cs456/A2$ ./nEmulator 5991 ubuntu1404-004.student.cs.uwaterloo.ca 5994 5993 ubuntu1404-006.student.cs.uwaterloo.ca 5992 1 0.2 0
-
-
-hjluo@ubuntu1404-004:~/cs350$ java receiver ubuntu1404-002.student.cs.uwaterloo.ca 5993 5994 output.txt
-
-hjluo@ubuntu1404-006:~/cs350$ java sender ubuntu1404-002.student.cs.uwaterloo.ca 5991 5992 input.txt
